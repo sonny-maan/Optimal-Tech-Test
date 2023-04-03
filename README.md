@@ -1,6 +1,6 @@
 # Optimal Tech Test  -  ![badge](https://img.shields.io/badge/Made--By-Sonny-red)
 
-### ****a C# application that asks the user to provide two post codes and then calculates the distance between them****
+### ****A C# application that asks the user to provide two post codes and then calculates the distance between them****
 
 ## Usage
 
