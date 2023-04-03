@@ -4,7 +4,7 @@
 
 ## Usage
 
-***run on Repl.it***
+***run on Repl.it by clicking the button below***
 
 [![Run on Repl.it](https://repl.it/badge/github/sonny-maan/NodeChat)](https://replit.com/@sonny_maan/Optimal-Tech-Test#main.cs)
 
