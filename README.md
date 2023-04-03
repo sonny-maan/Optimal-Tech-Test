@@ -10,4 +10,4 @@
 
 ## Notes
 
-This solution uses the Google Maps Distance Matrix API to show the user the distance between two UK postcodes, it assumes that the user would be driving. If I were to improve this solution I would include a switch statement and prompt the user to select if they are driving, walking or cycling to their destination, as each would have a slightly different distance.
+This solution uses the Google Maps Distance Matrix API to show the user the distance between two UK postcodes, it assumes that the user would be driving. If I was going to improve it I would include a switch statement and prompt the user to select if they are driving, walking or cycling to their destination, since each would have a slightly different distance.
