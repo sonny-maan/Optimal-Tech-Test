@@ -8,12 +8,6 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/sonny-maan/NodeChat)](https://replit.com/@sonny_maan/Optimal-Tech-Test#main.cs)
 
-## User Stories/Features
+## Notes
 
-**Welcome message**
-```
-As a user
-So I know I am in the chat room
-I would like a welcome message when I join a chat room
-```
-
+This solution uses the Google Maps Distance Matrix API to show the user the distance between two UK postcodes, it assumes that the user would be driving. If I were to improve this solution further I would include a switch statement and prompt the user to select if they are driving, walking or cycling to their destination, as each would have a slightly different distance.
