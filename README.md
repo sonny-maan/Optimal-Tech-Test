@@ -1,4 +1,4 @@
-# Optimal Tech Test  -  ![badge](https://img.shields.io/badge/Made--By-Sonny-red)
+# Optimal Solicitors Tech Test  -  ![badge](https://img.shields.io/badge/Made--By-Sonny-red)
 
 ### ****A C# application that asks the user to provide two post codes and then calculates the distance between them****
 
