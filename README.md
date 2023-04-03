@@ -1,6 +1,6 @@
 # Optimal Tech Test  -  ![badge](https://img.shields.io/badge/Made--By-Sonny-red)
 
-### **** a C# application that asks the user to provide two post codes and then calculates the distance between them and displays them to the user. After displaying the results the application should add the details of the search to a “historyLog.txt” file without overwriting it.*** 
+### **** a C# application that asks the user to provide two post codes and then calculates the distance between them and displays them to the user. After displaying the results the application should add the details of the search to a “historyLog.txt” file without overwriting it.****
 
 ## Usage
 
